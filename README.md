@@ -8,7 +8,7 @@ A real-time blood donation platform that connects **donors** with **recipients**
 
 | Login Page | Detail Page | Blood Group Dropdown | Donor List |
 |------------|-------------|----------------------|-------------|
-| ![](assets/login.jpeg) | ![](assets/aaaa.jpeg) | ![](assets/details.jpeg) | ![](assets/add.jpeg) |
+| ![](Newblood/assets/login.jpeg) | ![](Newblood/assets/aaaa.jpeg) | ![](Newblood/assets/details.jpeg) | ![](Newblood/assets/add.jpeg) |
 
 ---
 
